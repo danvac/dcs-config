@@ -3,6 +3,7 @@
 !/Config/Input/
 !/Config/Input/L-39C/
 !/Config/Input/*/joystick/
+!BU0836A\ Interface\ *.diff.lua
 !F16 MFD 1 *.diff.lua
 !F16 MFD 2 *.diff.lua
 !Joystick - HOTAS Warthog *.diff.lua
