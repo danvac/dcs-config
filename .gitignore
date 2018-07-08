@@ -4,5 +4,4 @@
 !/Config/Input/L-39C/
 !/Config/Input/*/joystick/
 !Throttle - HOTAS Warthog*.diff.lua
-!Config\Input\*\joystick\*.lua
 !.gitignore
