@@ -82,6 +82,22 @@ local diff = {
 			},
 			["name"] = "CB Missile Seeker Glowing Circuit Power Switch - ON/OFF",
 		},
+		["d3034pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Missile/Bomb Release Selector Switch - STARB-BOTH(Right for Missiles/Both)",
+		},
+		["d3034pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Missile/Bomb Release Selector Switch - PORT(Left)",
+		},
 		["d3039pnilunilcd3vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
