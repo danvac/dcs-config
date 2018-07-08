@@ -4,5 +4,7 @@
 !/Config/Input/L-39C/
 !/Config/Input/*/joystick/
 !F16 MFD 1 *.diff.lua
+!F16 MFD 2 *.diff.lua
+!Joystick - HOTAS Warthog *.diff.lua
 !Throttle - HOTAS Warthog *.diff.lua
 !.gitignore
