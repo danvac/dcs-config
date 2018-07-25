@@ -90,6 +90,38 @@ local diff = {
 			},
 			["name"] = "Missile Seeker Glowing Circuit Power Switch - ON/OFF",
 		},
+		["d3048pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Outboard Stations Select Button",
+		},
+		["d3049pnilu3049cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Outboard Stations Deselect Button",
+		},
+		["d3050pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Inboard Stations Select Button",
+		},
+		["d3051pnilu3051cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Inboard Stations Deselect Button",
+		},
 		["d3060pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
