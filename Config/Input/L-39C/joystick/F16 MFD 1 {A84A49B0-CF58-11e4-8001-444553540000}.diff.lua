@@ -130,6 +130,22 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3004unilcd25vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Heading Knob - CCW",
+		},
+		["dnilp3004unilcd25vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Heading Knob - CW",
+		},
 	},
 }
 return diff
