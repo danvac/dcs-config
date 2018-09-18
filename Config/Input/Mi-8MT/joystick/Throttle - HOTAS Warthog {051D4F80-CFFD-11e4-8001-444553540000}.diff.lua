@@ -20,6 +20,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd51vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "External Cargo Tactical Unhook Button",
+		},
+		["d3001pnilunilcd59vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Cargo View",
+		},
 		["d3003pnilu3003cd36vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -43,6 +59,30 @@ local diff = {
 				},
 			},
 			["name"] = "SPU-7 Radio Source Select Rotary - R-863 (Warthog)",
+		},
+		["d3003pnilu3003cd51vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "External Cargo Emergency Unhook Button",
+		},
+		["d3007pnilunilcd51vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "External Cargo Tactical Unhook Button Cover - OPEN/CLOSE",
+		},
+		["d3009pnilunilcd51vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "External Cargo Emergency Unhook Button Cover - OPEN/CLOSE",
 		},
 		["d3012pnilu3012cd9vd-1vpnilvu0"] = {
 			["added"] = {
@@ -124,6 +164,14 @@ local diff = {
 				},
 			},
 		},
+		["d3027pnilu3027cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Weapon Safe/Armed Switch - ON (Warthog)",
+		},
 		["d600pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -147,6 +195,11 @@ local diff = {
 				},
 			},
 			["name"] = "Readjust Free Turbine RPM Switch - Increase",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
 		},
 		["d854pnilu854cdnilvd1vpnilvu0"] = {
 			["added"] = {
@@ -155,6 +208,11 @@ local diff = {
 				},
 			},
 			["name"] = "Readjust Free Turbine RPM Switch - Decrease",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
 		},
 	},
 }
