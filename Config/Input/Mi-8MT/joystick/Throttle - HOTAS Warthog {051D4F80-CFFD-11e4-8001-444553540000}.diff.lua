@@ -172,10 +172,29 @@ local diff = {
 			},
 			["name"] = "Weapon Safe/Armed Switch - ON (Warthog)",
 		},
+		["d3071pnilunilcd12vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Pylon Setup Selector Switch - CCW",
+		},
+		["d3071pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Pylon Setup Selector Switch - CW",
+		},
 		["d600pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN16",
+				},
+				[2] = {
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Cut-off valve left engine",
@@ -185,15 +204,13 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN17",
 				},
+				[2] = {
+					["key"] = "JOY_BTN32",
+				},
 			},
 			["name"] = "Cut-off valve right engine",
 		},
 		["d853pnilu853cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
 			["name"] = "Readjust Free Turbine RPM Switch - Increase",
 			["removed"] = {
 				[1] = {
@@ -202,11 +219,6 @@ local diff = {
 			},
 		},
 		["d854pnilu854cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
 			["name"] = "Readjust Free Turbine RPM Switch - Decrease",
 			["removed"] = {
 				[1] = {
