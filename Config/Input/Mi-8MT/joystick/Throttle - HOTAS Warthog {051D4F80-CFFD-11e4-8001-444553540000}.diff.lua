@@ -20,6 +20,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd2vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Left Shutoff Valve Switch - OFF (Warthog)",
+		},
 		["d3001pnilu3001cd51vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -35,6 +43,14 @@ local diff = {
 				},
 			},
 			["name"] = "Cargo View",
+		},
+		["d3002pnilu3002cd2vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Right Shutoff Valve Switch - OFF (Warthog)",
 		},
 		["d3003pnilu3003cd36vd0.1vpnilvunil"] = {
 			["added"] = {
@@ -76,6 +92,14 @@ local diff = {
 			},
 			["name"] = "External Cargo Tactical Unhook Button Cover - OPEN/CLOSE",
 		},
+		["d3009pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Left Shutoff Valve Switch Cover - OPEN",
+		},
 		["d3009pnilunilcd51vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -83,6 +107,14 @@ local diff = {
 				},
 			},
 			["name"] = "External Cargo Emergency Unhook Button Cover - OPEN/CLOSE",
+		},
+		["d3010pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Right Shutoff Valve Switch Cover - OPEN",
 		},
 		["d3012pnilu3012cd9vd-1vpnilvu0"] = {
 			["added"] = {
@@ -100,10 +132,37 @@ local diff = {
 			},
 			["name"] = "Nav. Lights Switch - BRIGHT (Warthog)",
 		},
+		["d3013pnilu3013cd9vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Formation Lights Switch - DIM (Warthog)",
+		},
+		["d3013pnilu3013cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Formation Lights Switch - BRIGHT (Warthog)",
+		},
+		["d3014pnilu3014cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Tip Lights Switch - ON (Warthog)",
+		},
 		["d3015pnilu3015cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
+				},
+				[2] = {
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Strobe Light Switch (Warthog)",
@@ -172,28 +231,9 @@ local diff = {
 			},
 			["name"] = "Weapon Safe/Armed Switch - ON (Warthog)",
 		},
-		["d3071pnilunilcd12vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Pylon Setup Selector Switch - CCW",
-		},
-		["d3071pnilunilcd12vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Pylon Setup Selector Switch - CW",
-		},
 		["d600pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-				[2] = {
 					["key"] = "JOY_BTN31",
 				},
 			},
@@ -202,9 +242,6 @@ local diff = {
 		["d601pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-				[2] = {
 					["key"] = "JOY_BTN32",
 				},
 			},

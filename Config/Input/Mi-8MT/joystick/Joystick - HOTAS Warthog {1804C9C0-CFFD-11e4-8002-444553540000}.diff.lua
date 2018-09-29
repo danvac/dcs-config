@@ -72,6 +72,22 @@ local diff = {
 			},
 			["name"] = "Autopilot Altitude Control Switch - Down",
 		},
+		["d3071pnilunilcd12vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Pylon Setup Selector Switch - CCW",
+		},
+		["d3071pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Pylon Setup Selector Switch - CW",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {

@@ -90,6 +90,22 @@ local diff = {
 			},
 			["name"] = "AI Gunner ROE Iterate",
 		},
+		["d3093pnilunilcd12vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "AI Back Gunner Burst Switch",
+		},
+		["d3093pnilunilcd12vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "AI Back Gunner ROE Iterate",
+		},
 		["dnilp3002unilcd34vdnilvp-0.1vunil"] = {
 			["added"] = {
 				[1] = {
