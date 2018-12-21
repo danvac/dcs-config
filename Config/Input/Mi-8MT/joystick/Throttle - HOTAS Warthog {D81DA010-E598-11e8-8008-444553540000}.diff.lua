@@ -148,21 +148,10 @@ local diff = {
 			},
 			["name"] = "Formation Lights Switch - BRIGHT (Warthog)",
 		},
-		["d3014pnilu3014cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Tip Lights Switch - ON (Warthog)",
-		},
 		["d3015pnilu3015cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
-				},
-				[2] = {
-					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Strobe Light Switch (Warthog)",
@@ -230,6 +219,22 @@ local diff = {
 				},
 			},
 			["name"] = "Weapon Safe/Armed Switch - ON (Warthog)",
+		},
+		["d3028pnilu3028cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Left Engine Dust Protection Switch - ON (Warthog)",
+		},
+		["d3029pnilu3029cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Right Engine Dust Protection Switch - ON (Warthog)",
 		},
 		["d600pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

@@ -66,6 +66,22 @@ local diff = {
 			},
 			["name"] = "R-863 Channel Knob - Increase",
 		},
+		["d3018pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Open/Close Left Blister",
+		},
+		["d3025pnilu3025cd36vd1vpnilvu0"] = {
+			["name"] = "Radio trigger - RADIO",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 		["d3091pnilunilcd12vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -106,10 +122,18 @@ local diff = {
 			},
 			["name"] = "AI Back Gunner ROE Iterate",
 		},
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
+			["name"] = "Release weapons",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
 		["dnilp3002unilcd34vdnilvp-0.1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Left HSI Course Knob - Decrease",
@@ -117,10 +141,18 @@ local diff = {
 		["dnilp3002unilcd34vdnilvp0.1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Left HSI Course Knob - Increase",
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 		},
 	},
 }
