@@ -3,7 +3,7 @@ local diff = {
 		["d3008pnilunilcd257vd-0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "Left big knob Decrease (down)",
@@ -11,15 +11,23 @@ local diff = {
 		["d3008pnilunilcd257vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "Left big knob Increase (down)",
 		},
+		["d3009pnilu3032cd257vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Left small knob push",
+		},
 		["d3011pnilunilcd257vd-0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Left small knob Decrease (down)",
@@ -27,7 +35,7 @@ local diff = {
 		["d3011pnilunilcd257vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Left small knob Increase (down)",
@@ -123,7 +131,7 @@ local diff = {
 		["d3026pnilunilcd257vd-0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "Right big knob Decrease (down)",
@@ -131,7 +139,7 @@ local diff = {
 		["d3026pnilunilcd257vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN23",
 				},
 			},
 			["name"] = "Right big knob Increase (down)",
@@ -147,7 +155,7 @@ local diff = {
 		["d3029pnilunilcd257vd-0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "Right small knob Decrease (down)",
@@ -155,7 +163,7 @@ local diff = {
 		["d3029pnilunilcd257vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "Right small knob Increase (down)",
